@@ -75,3 +75,6 @@ Below are the key outputs generated in the `plots/` folder.
 
 ## Notes
 - The script was exported from a Colab notebook and may include notebook-specific commands. The notebook version is recommended for interactive exploration.
+
+## License
+MIT. See LICENSE.

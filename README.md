@@ -170,7 +170,7 @@ All visualizations are automatically saved to the `plots/` folder with high reso
 MIT License. See [LICENSE](LICENSE) for details.
 
 ## Author
-Created as part of a sampling techniques assignment for imbalanced classification problems.
+Arjun Angirus
 
 ## References
 - Credit Card Fraud Detection Dataset
